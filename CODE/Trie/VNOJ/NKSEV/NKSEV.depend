@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622189776 source:e:\nksev\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622622198 source:e:\fseclect\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

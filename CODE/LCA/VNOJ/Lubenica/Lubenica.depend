@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622616201 source:e:\lubenica\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

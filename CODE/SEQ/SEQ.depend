@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620263547 source:e:\seq\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

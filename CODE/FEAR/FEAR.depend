@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620481618 source:e:\fear\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

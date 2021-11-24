@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632316181 source:e:\code\bedao_r01_grade\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

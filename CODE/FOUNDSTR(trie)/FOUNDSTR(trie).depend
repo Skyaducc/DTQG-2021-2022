@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621597140 source:e:\foundstr(trie)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

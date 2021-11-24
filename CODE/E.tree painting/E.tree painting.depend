@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1632301976 source:e:\code\e.tree painting\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

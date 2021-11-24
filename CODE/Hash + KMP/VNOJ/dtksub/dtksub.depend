@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622539784 source:e:\dtksub\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

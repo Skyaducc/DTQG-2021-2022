@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622100073 source:e:\nkracing\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

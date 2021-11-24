@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621512640 source:e:\domino\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

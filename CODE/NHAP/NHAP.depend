@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1629207742 source:e:\nhap\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621838657 source:e:\d.uproad\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

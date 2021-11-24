@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1637227328 source:d:\code\fixbug2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

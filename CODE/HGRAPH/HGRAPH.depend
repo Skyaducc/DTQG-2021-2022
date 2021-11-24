@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1632322144 source:e:\code\hgraph\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
+1632320348 source:e:\code\hgraph\a_gen.cpp
+	<iostream>
+	<bits/stdc++.h>
+

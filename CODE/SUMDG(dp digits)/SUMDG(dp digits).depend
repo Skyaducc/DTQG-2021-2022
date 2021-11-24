@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622008911 source:e:\sumdg(dp digits)\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

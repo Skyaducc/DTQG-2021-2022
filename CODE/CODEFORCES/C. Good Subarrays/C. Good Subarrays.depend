@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621673576 source:e:\c. good subarrays\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

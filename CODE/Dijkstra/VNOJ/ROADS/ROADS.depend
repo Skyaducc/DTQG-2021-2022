@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622445296 source:e:\roads\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

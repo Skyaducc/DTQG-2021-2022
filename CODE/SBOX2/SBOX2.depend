@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621065759 source:e:\sbox2\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

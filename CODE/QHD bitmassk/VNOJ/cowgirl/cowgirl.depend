@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622707706 source:e:\cowgirl\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

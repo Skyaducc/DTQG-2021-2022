@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620308034 source:e:\travel\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

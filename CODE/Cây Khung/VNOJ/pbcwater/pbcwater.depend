@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1622104330 source:e:\pbcwater\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+

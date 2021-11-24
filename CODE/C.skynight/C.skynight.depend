@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1632403100 source:e:\code\c.skynight\skynight.inpt.c
+
+1632408371 source:e:\code\c.skynight\main.cpp
+	<iostream>
+
